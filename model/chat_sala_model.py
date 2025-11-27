@@ -59,11 +59,10 @@ class ChatMensagem:
     mensagem: str
     data_envio: datetime
     lida_em: Optional[datetime] = None
-```
+
 
 #### model/chat_participante_model.py
 
-```python
 # =============================================================================
 # MODEL - PARTICIPANTE DE CHAT
 # =============================================================================
