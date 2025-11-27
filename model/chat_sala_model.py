@@ -27,11 +27,9 @@ class ChatSala:
     id: str
     criada_em: datetime
     ultima_atividade: datetime
-```
 
 #### model/chat_mensagem_model.py
 
-```python
 # =============================================================================
 # MODEL - MENSAGEM DE CHAT
 # =============================================================================
